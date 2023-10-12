@@ -5,6 +5,7 @@
 ## Project setup
 ```
 yarn install
+Baooooo
 ```
 
 ### Compiles and hot-reloads for development
